@@ -1,0 +1,29 @@
+/* CSS declarations go here */
+
+.user_avatar{
+	min-height:100px;
+	text-align: center;
+
+}
+.avatar_img{
+	height:75px;
+}
+.chat_avatar{
+	height: 25px;
+	margin:.2em;
+	border-radius: 50%;
+}
+.brand-background{
+	background-color: lightblue;
+}
+.btn-color{
+	background-color: #00ffff;
+}
+.font-color{
+	
+	color:#333;
+}
+.panel{
+	margin:.2em;
+	border:2px solid ;
+}
